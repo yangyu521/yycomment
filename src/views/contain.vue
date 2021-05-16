@@ -8,7 +8,7 @@
             $store.state.user.username ? $store.state.user.username : "小Y"
           }}</span
         >
-        <span> 欢迎来到yy论坛</span>
+        <span> 欢迎来到yy论坛11</span>
       </template>
       <template #content>
         <div
