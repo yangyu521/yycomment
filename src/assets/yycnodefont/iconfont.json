@@ -1,0 +1,23 @@
+{
+  "id": "2527056",
+  "name": "yy论坛",
+  "font_family": "iconfont",
+  "css_prefix_text": "yy-",
+  "description": "仿cnode",
+  "glyphs": [
+    {
+      "icon_id": "809963",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "18656973",
+      "name": "转发",
+      "font_class": "hanhan-01-01",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    }
+  ]
+}
